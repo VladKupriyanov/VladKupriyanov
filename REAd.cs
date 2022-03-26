@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VladKupriyanov
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning in National University Of Radio - Elecronics.It placed in Kharkiv.
+- 📫 How to reach me beforeiwillbehappy@gmail.com
